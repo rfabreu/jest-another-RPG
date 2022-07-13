@@ -32,8 +32,8 @@ test("gets enemy's attack value", () => {
     const enemy = new Enemy('goblin', 'sword');
 
     enemy.strength = 10;
-    expect(enemy.getAttackvalue()).toBeGreaterThanOrEqual(5);
-    expect(enemy.getAttackvalue()).toBeLessThanOrEqual(15);
+    expect(enemy.getAttackValue()).toBeGreaterThanOrEqual(5);
+    expect(enemy.getAttackValue()).toBeLessThanOrEqual(15);
 });
 
 test("subtracts from enemy's health", () => {
