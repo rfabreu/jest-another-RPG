@@ -1,4 +1,3 @@
-
 # jest-another-RPG
 
 ## Description
@@ -13,9 +12,9 @@ This is a `CLI` application built with `Node.Js` that will run a RPG battle game
 ## Installation
 - `Clone` the repository:
   - Ensure you have `Node.Js` installed
-  - `cd` into `develop` and run `npm i` or `npm install`
+  - `cd` into `jest-another-RPG` and run `npm i` or `npm install`
 ## Usage
-From the `terminal` ensure that you are in `develop` and call the application by running `node index.js` or `node index`. Answer the `prompts` and follow the instructions to play the game.
+From the `terminal` ensure that you are in `jest-another-RPG` and call the application by running `node app.js` or `node app`. Answer the `prompts` and follow the instructions to play the game.
 ## Contributing
 If you wish to contribute to the project you may reach out or `fork` this repository and submit `pull requests`.
 ## Tests
